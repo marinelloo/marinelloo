@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an enthusiastic and detail-oriented Frontend Software Engineer who's currently learning React.
+I’m an enthusiastic and detail-oriented Software Engineer who's currently learning React.
 
 
 - 🌱 I’m currently learning React
